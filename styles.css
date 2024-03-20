@@ -1,0 +1,149 @@
+
+*{
+    font-family: "Poppins",sans-serif;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: rgb(66, 4, 4);
+
+
+    
+}
+.navbar__items ul{
+    display: flex;
+    gap: 20px;
+    font-size: 18px;
+    justify-content: space-between;
+}
+.navbar__items ul{
+    display: flex;
+    gap: 20px;
+    font-size: 18px;
+    justify-content: space-between;
+}
+.navbar__items nav ul li{
+    display:inline-block;
+    margin-right: 10px;
+}
+
+.container{
+    width: 30%;
+    max-width: 100%;
+    padding: 20px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin-top: 200px;
+}
+
+.container3{
+    text-align: center;
+    margin-top: 20px;
+    background-color: aliceblue;
+}
+.container2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1{
+    text-align:center;
+    color: black;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+
+.about.info{
+    width: 48%;
+    float: left;
+    margin: 0 auto;
+    padding : 20px;
+    color: brown;
+    text-align: left;
+    color: aliceblue;
+    /*TRBL*/
+    /*TB-LR-0-20PX*/
+}
+.about.info h1 {
+    text-align: center;
+   
+    width: 48%;
+   align-items: center;
+
+}
+.about.info{
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+    color: aliceblue;
+}
+.contact.info{
+    margin: 0 auto;
+    padding : 5px;
+    align-items: center;
+    
+}
+.contact.info h1{
+    text-align: center;
+    color: brown;
+
+}
+footer{
+    height: 50px;
+    background-color: bisque;
+    text-align: center;
+    color:blueviolet;
+    display: inline-block;
+    align-items:center;
+    justify-content: center;
+    width: 500px;
+
+}
+
+
+
+
+
+
+
+body{
+    background-color: aliceblue;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1px;;
+    height: 100vh;
+    padding: 0;
+    width:48%;
+    text-align: left;
+    width: 48%;
+    
+}
+
+
+  
+
+
+    img{
+        
+        height: 300px;
+        width: 300px;
+        margin: 0%;
+        padding: 5px;
+        justify-content:center;
+        
+
+    }
+  
+
